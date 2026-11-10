@@ -53,7 +53,7 @@ The **Community Learning Center Management System** is an integrated Dart consol
 
 ## Instructions for Running the Application
 
-1. **Prerequisites:** Ensure the Dart SDK is installed or open [DartPad](https://dartpad.dev).
+1. **Prerequisites:** Ensure the Dart SDK is installed or open [onlinegdb](https://onlinegdb.com).
 2. **Setup:** Place `main.dart` in your workspace directory.
 3. **Execution:** Run the following command in your terminal:
    ```bash
